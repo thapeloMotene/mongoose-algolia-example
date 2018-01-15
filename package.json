@@ -1,0 +1,19 @@
+{
+  "name": "mongooliademo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thapelo Motene",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoolia": "^1.0.3",
+    "mongoose": "^4.13.9",
+    "mongoose-algolia": "^1.7.1",
+    "morgan": "^1.9.0"
+  }
+}
